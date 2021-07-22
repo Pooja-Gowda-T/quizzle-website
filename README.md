@@ -1,2 +1,7 @@
-# quiz-website
-This website is a simple quiz , taking the user to attend some simple questions and tell the user what is the score and correct answers.
+# quizzle-website
+
+This website is mainly of HTML quiz questions .
+The languages used are 
+HTML
+CSS
+JAVASCRIPT
